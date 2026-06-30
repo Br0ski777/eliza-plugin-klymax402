@@ -1,5 +1,5 @@
 {
-  "name": "@klymax402/eliza-plugin",
+  "name": "eliza-plugin-klymax402",
   "version": "0.1.0",
   "description": "15 x402 APIs on Base for ElizaOS agents — stock prices, B2B enrichment, web search, crypto, SEO, NLP and more. Pay USDC per call, no API keys needed.",
   "license": "MIT",
